@@ -1,4 +1,5 @@
-# ExamenParcial1 m
+# ExamenParcial1
+https://github.com/josean9/ExamenParcial1.git
 ##Enunciado:
 
 Pregunta 1 (1 Punto):
@@ -20,3 +21,4 @@ Los principios DRY (Don't Repeat Yourself) y KISS (Keep It Simple, Stupid) son f
 Pregunta 5(1 Punto):
 
 El patrón de diseño "Observer" permite que un objeto notifique a otros objetos sobre los cambios en su estado. Describa una situación en el contexto de la ingeniería matemática donde este patrón sería útil. Implemente un ejemplo simple de este patrón en Python para ilustrar su respuesta.
+
